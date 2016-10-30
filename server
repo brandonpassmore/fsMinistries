@@ -1,0 +1,3 @@
+source fsMin_env/bin/activate
+export DJANGO_SETTINGS_MODULE="fsMin.settings.base"
+python manage.py runserver
